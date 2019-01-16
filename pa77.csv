@@ -32,7 +32,7 @@ TEAM,ACC,Atlantic,Wake Forest,WF,55,DUKE,,,,,,,
 TEAM,ACC,Coastal,Miami,UM,80,FSU,,,,,,,
 TEAM,ACC,Coastal,Virginia Tech,VT,75,CLEM,,,,,,,
 TEAM,ACC,Coastal,UNC,UNC,65,NCST,,,,,,,
-TEAM,ACC,Coastal,Notre Dame,ND,90,BC,,,,,,,
+TEAM,ACC,Coastal,Notre Dame,ND,50,BC,,,,,,,
 TEAM,ACC,Coastal,Georgia Tech,GT,65,SYR,,,,,,,
 TEAM,ACC,Coastal,Duke,DUKE,70,WF,,,,,,,
 TEAM,ACC,Coastal,Virginia,UVA,60,LOU,,,,,,,
@@ -106,5 +106,7 @@ DC,ND,Tim Skipper,36,95,S,Short Pass,,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
 PLAYER,ND,QB,Derrell Carr,Fr,76,205,100,100,100,100,100,100,100
+PLAYER,ND,WR,Demaryius Jeffries,Fr,77,205,100,100,100,100,100,100,100
+PLAYER,ND,DL,Reggie White Jr,Fr,78,300,100,100,100,100,100,100,100
 PLAYER,ND,S,Jacoby Jones,Fr,75,225,100,100,100,100,100,100,100
 END_FILE,,,,,,,,,,,,,
