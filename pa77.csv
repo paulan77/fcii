@@ -97,13 +97,14 @@ TEAM,AAC,East,Temple,TEM,65,NAVY,,,,,,,
 TEAM,AAC,East,East Carolina,ECU,65,TULN,,,,,,,
 TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-COACH,ND,Paul Ann,34,95,95,95,95,Spread,Aggressive,,,,
+COACH,ND,Paul An,34,95,95,95,95,Spread,Aggressive,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
 OC,ND,Jeff Grady,36,95,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-DC,ND,Tim Skipper,36,95,S,Inside Run,,,,,,,
+DC,ND,Tim Skipper,36,95,S,Short Pass,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+PLAYER,ND,QB,Derrell Carr,Fr,76,205,100,100,100,100,100,100,100
+PLAYER,ND,S,Jacoby Jones,Fr,75,225,100,100,100,100,100,100,100
 END_FILE,,,,,,,,,,,,,
