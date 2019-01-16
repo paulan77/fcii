@@ -103,8 +103,8 @@ OC,ND,Jeff Grady,36,95,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
 DC,ND,Tim Skipper,36,95,S,Medium Pass,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-# PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
-# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-# PLAYER,ND,QB,Derrell Carr,Fr,76,200,100,100,100,100,100,100,100
-# PLAYER,ND,S,Jacoby Jones,Fr,75,215,100,100,100,100,100,100,100
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
 END_FILE,,,,,,,,,,,,,
